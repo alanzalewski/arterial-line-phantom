@@ -3,12 +3,13 @@
 [also pics]
 
 ### Materials & Equipment Needed
-* 1/8th inch (?? i think) thick planks of wood (what kind)
-* laser cutter
+* approximately 1/8th inch thick planks of wood (the kind and size aren't terribly important, you just need to be able to laser cut them)
+* laser cutter (or access to one)
 * ballistics gel (or another pourable, ultrasonic material)
-* screws (specifics?)
-* those little tubes
-* valve tube ending
+* M4 screws
+* [silicone rubber tubing](https://www.mcmaster.com/5054K812/) (used to simulate vessels)
+* [male](https://www.mcmaster.com/51525K126/)/[female](https://www.mcmaster.com/51525K216/) valve connectors
+* [stopcocks](https://www.mcmaster.com/7033T24/)
 * crock pot
 * fume hood
 * heat resistant gloves
@@ -16,7 +17,7 @@
 ### Assembly Instructions
 \* = more detail
 
-1. Get the wood laser cut into those shapes.
+1. Laser cut the wood according to the given files.
 2. Start melting the ballistics gel by cutting it into smaller chunks (roughly 1-2 inches on each side - prcision isn't important, this is just to make melting easier) and placing it in a crock pot in a fume hood at 200°C until molten. While waiting for it to melt, do steps 3 and 4.
 3. \* Screw all 4 walls together (detailed instructions to come).
 4. Feed the 2 tubes (arterial lines) through the holes. Make sure they aren't too taut, but also that they don't droop.
